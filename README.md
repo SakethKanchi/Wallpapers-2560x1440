@@ -1,5 +1,9 @@
-# Wallpapers-2560x1440
+# Wallpapers
 2560x1440 wallpapers. Mostly from Wallhaven.cc
+## To get these wallpapers:
+```
+git clone https://github.com/SakethKanchi/Wallpapers-2560x1440.git
+```
 # Illustrations:
 ![](wallhaven-g8dm6e.jpg)
 ![](wallhaven-x8922o_2560x1440.png)
